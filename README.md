@@ -1,4 +1,4 @@
-##Customer Segmentation with RFM Analysis
+## Customer Segmentation with RFM Analysis
 
 An e-commerce data science project that segments 4,339 customers 
 into behavioural groups using Recency, Frequency and Monetary analysis.
